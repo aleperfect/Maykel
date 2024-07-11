@@ -11,7 +11,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.-https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+1.-https://www.instagram.com/fc.fifty_cents
 
 Deseas comprar algun bot por paypal ??
 

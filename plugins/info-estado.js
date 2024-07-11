@@ -31,9 +31,9 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} Readz ALeizn
-  ${tradutor.texto1[2]} +51992621601
-  ${tradutor.texto1[3]} https://aleiznventas.com/
+  ${tradutor.texto1[1]} 𝐌𝐚𝐲𝐤𝐞𝐥
+  ${tradutor.texto1[2]} fc.fifty_cents
+  ${tradutor.texto1[3]} https://discord.com/invite/UhyrhqeP
 
   ${tradutor.texto1[4]} ${rtime}
   ${tradutor.texto1[5]} ${uptime}
